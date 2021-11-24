@@ -182,7 +182,7 @@ a:visited {
 .btn {
   background: #111;
   padding: 15px 20px;
-  color: #fff;
+  color: rgb(223, 217, 217);
   border: none;
   font-family: inherit;
   cursor: pointer;
@@ -207,3 +207,7 @@ a:visited {
   height: 50px;
   background: lightcoral;
 } */
+
+.xett {
+  padding-bottom: 10px;
+}
